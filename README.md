@@ -30,10 +30,6 @@ npm run client
 
 **Note - If you wish to change the server port number from 5000 to say port 4000, then do the following small change in package.json file of the client folder.**
 
-<div align="center">
-  <img src="./proxy-change.png" width=100%/>
-</div>
-
 
 ## Demo :
 
