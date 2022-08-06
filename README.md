@@ -31,6 +31,3 @@ npm run client
 **Note - If you wish to change the server port number from 5000 to say port 4000, then do the following small change in package.json file of the client folder.**
 
 
-## Demo :
-
-Click [this](https://youtu.be/JkcP06CYVpc) link to see the demo.
